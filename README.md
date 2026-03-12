@@ -7,10 +7,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-EE82EE?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-BA55D3?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📂 Projects
-* **Dormitory Management** (Spring Boot, MySQL)
-* **Study Management App** (Flutter, Firebase)
 ---
 [Gmail](hoaiquy33@gmail.com)
